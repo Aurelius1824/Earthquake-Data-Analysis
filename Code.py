@@ -1,3 +1,6 @@
+improt JSON
+import urllib3
+
 def printResults(data):
     #use the json module to load the string data into a dictionary
     theJSON = json.loads(data)
