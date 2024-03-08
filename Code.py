@@ -1,4 +1,4 @@
-improt JSON
+import JSON
 import urllib3
 
 def printResults(data):
